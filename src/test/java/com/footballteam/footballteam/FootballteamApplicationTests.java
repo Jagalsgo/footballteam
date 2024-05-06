@@ -8,6 +8,7 @@ class FootballteamApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("test");
 	}
 
 }
